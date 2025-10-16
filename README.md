@@ -39,7 +39,7 @@ Microsoft Power BI – for data modeling, DAX measures, and dashboard creation.
 
 
 ## Dashboard
-
+Screenshot 2025-10-16 170742.png
 
 ## Insights Expected:
 
