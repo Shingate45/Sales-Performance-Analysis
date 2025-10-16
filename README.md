@@ -37,6 +37,10 @@ Microsoft Excel / Google Sheets – for data cleaning, preprocessing, and initia
 
 Microsoft Power BI – for data modeling, DAX measures, and dashboard creation.
 
+
+## Dashboard
+
+
 ## Insights Expected:
 
 Identify top-performing stores and products.
@@ -46,3 +50,5 @@ Discover peak sales dates and seasonal trends.
 Understand customer buying patterns by payment type and region.
 
 Evaluate the average order value and total revenue performance.
+
+
