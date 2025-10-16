@@ -28,6 +28,9 @@ Peak Sales Dates
 
 To build an interactive Power BI dashboard for better analysis and reporting.
 
+## Dataset used
+- <a href="https://github.com/Shingate45/Sales-Performance-Analysis/blob/main/Product-Sales-Region%20(1).xlsx"> Dataset</a>
+
 ## Tools & Technologies Used:
 
 Microsoft Excel / Google Sheets – for data cleaning, preprocessing, and initial KPI calculations.
